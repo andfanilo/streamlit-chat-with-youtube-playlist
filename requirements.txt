@@ -1,0 +1,12 @@
+assemblyai
+# git+https://github.com/weaviate/st-weaviate-connection.git
+# goldenverba
+llama-index
+mutagen
+nltk
+openai
+python-dotenv
+rich
+streamlit
+weaviate-client
+yt-dlp
